@@ -1,2 +1,2 @@
 # Dagger2Basics
-this repo is a just tutorial for dagger2
+Dagger2 Tutorial from zero to hero [starting with the basices - ending with using android injector]
